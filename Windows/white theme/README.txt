@@ -1,0 +1,1 @@
+If you want light theme rather than dark, then replace the folders.
