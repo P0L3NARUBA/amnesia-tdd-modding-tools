@@ -1,5 +1,6 @@
 # amnesia-tdd-modding-tools
-Prebuilded Amnesia: The Dark Descent Modding Tools
+Prebuilded Amnesia: The Dark Descent Modding Tools,
+Supports AMFP Too!
 
 
 ## Useful for
