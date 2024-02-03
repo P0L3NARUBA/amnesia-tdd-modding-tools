@@ -8,7 +8,7 @@ Supports AMFP Too!
 
 ## Installation
 - Just put all the contents to the game folder...
-- 
+
 ---
 * **For Linux, You can find the tools compatible with Linux [From Here](https://github.com/WH0LEWHALE/amnesia-tdd-modding-tools/releases/tag/toolsforlinux)**
 * **For Windows, just use in the repository.**
